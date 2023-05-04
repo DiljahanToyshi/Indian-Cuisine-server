@@ -5,52 +5,6 @@
     "Chef_Name": "Justino Aníbal",
     "Years_of_experience": "2",
     "Numbers_of_recipes": "1",
-    "recipes":[
-       {
-    "strMeal": "Baingan Bharta",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
-    "id": "52807",
-    "category_id": "2",
-    "price": 160,
-    "strIngredient1": "Aubergine",
-    "strIngredient2": "Onion",
-    "strIngredient3": "Tomatoes",
-    "strIngredient4": "Garlic",
-    "strIngredient5": "Green Chili",
-    "strIngredient6": "Red Chili Powder",
-    "strInstructions": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and\r\nkeep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get\r\nthe smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly\r\ncooked. You could also embed some garlic cloves in the baingan and then roast it.\r\n2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid\r\neasily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools\r\ndown.\r\n3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step.\r\nUse natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red.\r\n4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted\r\naubergine is kept."
-  },
-  {
-    "strMeal": "Lamb Rogan josh",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
-    "id": "52808",
-    "price": 760,
-    "category_id": "4",
-    "strIngredient1": "Aubergine",
-    "strIngredient2": "Onion",
-    "strIngredient3": "Tomatoes",
-    "strIngredient4": "Garlic",
-    "strIngredient5": "Green Chili",
-    "strIngredient6": "Red Chili Powder",
-    "strInstructions": "\r\nPut the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice."
-  },
-    {
-      "id": "52771",
-      "price": 360,
-      "strMeal": "Spicy Arrabiata Penne",
-      "strDrinkAlternate": null,
-      "category_id": "2",
-      "strCategory": "Vegetarian",
-      "strArea": "Indian",
-      "strIngredient1": "penne rigate",
-      "strIngredient2": "olive oil",
-      "strIngredient3": "garlic",
-      "strIngredient4": "chopped tomatoes",
-      "strIngredient5": "red chile flakes",
-      "strIngredient6": "italian seasoning",
-      "strInstructions": "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.\r\nIn a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.\r\nDrain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.",
-      "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg"
-    }],
     "Likes": "4",
     "description": " Justino Aníbal is a name that’s popular in every Indian household and 90’s kid probably even grew up watching his insanely famous cooking show called ‘Khana Khazana’. The way he prepares dishes with adoration and a bright smile on his face makes anyone watching his easy recipes, try them for themselves. Did you know he owns the restaurant chain The Yellow Chilli?!"
   },
@@ -59,52 +13,8 @@
     "Chef_Picture": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBIVEhYWFRUYGBgYGRgYGBUZEhgYEhgYGBkaGhgYGBgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHzQrISs0NDQ0MTE2NDQ0NDQ0NDE0NDQ0NDQ0NDQ0NDQ0NDQxNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAQMAwgMBIgACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAgMEBQYHAQj/xABAEAACAQIDAwcIBwkBAQEAAAABAgADEQQFIRIxQQYiUWFxgbETIzIzUnKRoQcUNEKywdEVJGJzgoOSwuEWolP/xAAaAQACAwEBAAAAAAAAAAAAAAADBAABAgUG/8QAKREAAgICAgIBBAICAwAAAAAAAAECEQMxEiEEQVETIjJhFDNxgSNCUv/aAAwDAQACEQMRAD8AkAup1nWWwhQdJ2o2kXAChXmiIkQ+1zYkHkZDrKLREjfDVH0ie3pKLE6iiEpoWsoFyTYDrOgnHcdMecnE28Sn8JLf4gkfO0qKt0aRfcJS2EVB91VX/EARcTiTqx02M3yqi9QOyDa46aHrYcTE+UuFDYRrD0LMB2aH5EyRWKYikHpsh3MCp/qBExKKpotGWUgCYotK8QLbDEHeCQR1jQxVKwtvnPZEKKgEhs+G7sMkzVGusic4fat2GXDZb0aRyd+zJ/LXwkDUUbR7T4ye5PfZk9xfCVs1tT2nxgpbGZaQ5oR5S3Rjh33x3RfSYMDlHMRopbEoP4TFcOeeIGH72numSOwljyvSDK1xfWJJhUtbZHwj1mB+NoStiqYcrexEHJew0X6E/wBmr7A+EEX+vJ7U5K+39kqRmdPOr+kQLRV84p29MSqVHhEw5Y6GdmWFt9HFWSMV9xZ3zxd23GdTO+h5CYjCFV2trq3RUZZoOd8pSwSZUvJxRSd7JMZ2OLmFfOl9oyNOV/xTn7LHtGX/ABpGf5mL5H7ZwnSfjLT9HWJFTEuRuSn82ZbfIGUb9li/pGX/AOi/Lwn1hwSdryaf47Z/2EuOFxdm4eTCb4x2aKu6G4Qqw5hRgCxwdwjZRHRlMtGKct38hmFZNbMwdexwGPzLDukUmbgcDJX6YUZcwRuDUEseBIeoD+UpAdotLEmzLnTLIM2B4GB8SHW44AyAoub7+Bj/AC5jsN3yljUXZOdo2jIfsye4v4ZmlXNAHYbX3iPnNKyX7Mn8sfhmF4moxqP77fiMXjDk2M5JcUi64bNuhhJjA4p3UkWma0nNx1zRsnW1IdkHlhxokZKSJPC4ptoXXd1xbCYnbxCNa3NbTsMb4JtT3zmSetTsfxmYdpmvaJynWCKWfdtmV3MTUaozobBjoT0S14emGBDC4vGObhVYc2aSX1OJJyaxcvZErg6lhz4JIisOiCN/Th8CH15/JjDvrHGCq2cCR6PrFKT63jqfYrONxaJXMB5sdsdKdB2RnmD+ZHdHSNoOyGj+T/0c+a/41/lhpyCFJmwSOiaFyAS2Hdvadvkqj9Znc03kbS2cGn8W03xY2+VoOWhzw4/8l/os6ND3iKRUGCOsANHd402Y5mZG0Zj9NWBvTw1cfdd6TDpDjbU92w3+UysTc/pTwpfLKhAuUem/cHCt8mMw2x6PlMMDlXYrR39xj7LvQPaYwpXvuj3L/RPbMMkEbVk32ZP5Y/DMKqnzj++34jN1yj7Mv8sfhmE1PTf3m8TF8O2M+RqIaj6a9s0nKj5kdkzai3OXtmlZRrRHZMeT6Kw6Y+wenzhsl9cnuv8AinMHv7jDZOwNZCBbmN4wONdMM9os+CGh7ZEcpKmy6WktgDdT2mRPKKoisu1NxV5TOT+ljMVT0QQn1lJ2PcTlWYwjaR1hUuZH02k3gaDBL2OvVCylSDqNs66X0Oo7YcKQLAn4w5oOT6J+EU+rP0fOD5P5NcI6pDR2f2jEmd/aMenCNxIHfCnCdLCTn+y/pQ+EMtt/aPxm38nKWxhKCneKaX7SoJmOjDKdLk303TRc/wCWWHwdqKg1ayqB5NTZE0023+72C57JuErtstQV9IuqNFkEoWVZ7WrptO2zf7qAqB2G9z3mTGH2tNb98Xl5kU6SHo+I2rbLSBFQZXgrgbz8YrTqvbRj/kZn+WvaNfxX6Y9z7DeVwtdPbpuB27Jt87TBQJuKZgyg7fOXjpzrdXTMXxtILUdVNwrsFPAgE2PwtLeVTVxAZcTg+xALDLoRpOqIH/WSOwPo13KPsw9wfhmPug2jpxPjNfyj7KP5Y/DMkf0j2nxgI7YzPSBToLfcJdcsW1FeyU+lLjg9KS9kHkeiJdD3BDXuMGSeuX3G8YXBHX4+EPknrl9xvxSY9MntFly1CqkHpMh+VOELsgBAtJ3CDQyNzjLmrOtnKBd9uM3j/tKyf0kamWmw1G4QSU/Zw9uCdG0cvizAqOIJIF5MLmTcPGV5F3dcmsBgiNTxk4cmanlWNWLtmLeyPjG4zRz9wfEx++FAVjaJ4fDcxSBLWFXVg/5X28q90Mjj6nsiEONqeyJINStwiZUdE19BfJleZ+hiuYujBtkc0hrX0Nje0LkNM1sRdyWZizsSdWN7knrJMuHJzBbSs2gBNmuAV2AOcCDoQbgRtlmV0lxreSI2GpqygG4Us5BAPEcwxPLkS5RXo7GDC3COR+/RKpjalPmUqBcgbyQlNe874meW2Ipts1MOh4cyqpPwBMf5lydauuztFVvdgCQG6iRvEa/+RVUZUWwa20Ntgptrra3XFIuFfch1xk30yzZLn6V01UoeKsRp38YTN+UtPDekjP7ljGnJrLBRqam9xa3RG2fclBVqlmuwubc4jZB10tx/SYVcregruqWx5huVVOqp28PWRCCPKNTOxrxJHDrmYvijc84TTsryKpScFKjlNnZekwXYOmhUAaHxmU5/SCYvEKFChargKBYAByBaNYFGUmkIeXcYpscpiST6Qjmi+0DrffukNghz+4+EksmHMbv8Iw4pCXK0bLlX2Ufyx+CYzUxJ221HpHxmzZZ9l/tj8E8/Yj1j++3iYvijybGcsuKRYsPiGJG6XvD+qSZdk9/KrNSTSivZBeRHi0iY5ckOcEOd3GK5QP3ge4fGI4A+BjjKT+8D3Pzg4aZv2WfBqQDeJYgc4xXDXIN994jXcbZF5TtSDKmhicYkEX+pr0QQv05gueMwHA0gbE8JN0q4EhKT7KgRUVZ1U6OHki5MnDiAVI6ojha9kA6CfGR9GprvhUq2uOsycvuMPE/p1+yYLggxjWfZMJTr9c5itVB6JtSBRxtPssfJbHgh6Tfe5w367gym3UJK4lQlVCF2dSNCDcX5puOFj8pn9LFPTdHQ2ZCGHRcdPVLPQz98U4JRaYWwspJJJ+9c9m6c3ysT5OS0eh8PPeJY5bWv8Gh5figwEdYqsAthvkBhTbZsd8VxuZ06Vtt0QndtMAT1AROLb6OiqSsLhswpow0dmPpHZPNJ4N0ScbFqzWF9oAHdoR0X6ZWVzXDsSdu/XYW8Y/w2cUFAsxO4aIW39S3JmmuqN8Xuiw0qqkXmH8syDmGJK7tv57K7XzvNdxGKRaT1b2RUZyd2ii+7hMMqVC7M7G7MSzHpZjcn4mNeIm23/o5nnySSihTAjnHsMk8lHMbv8JH4T0u4yQyVhsm/X4RmXsQjo2HLPsv9sfhnn3Eem/vN4megct+y/wBv/Wefqw57e83iYDx9sb8jUR5k586vfNT2fMp2CZZkw88vfNYPqE7BBeUvuRWHQMAlvgY6yf14/l/nEMCfAxXKj57+g+MDDQYt2CG+RmIoE12bskjljXW8b1vWGSezcNC3kT0wQv1qn7Q+MEdtCtM84m3TDU2W+p0jMboelSLEARpCjiq7ZJqybQ2dNY3dwGOvExf9mumy5YEXG4yNxV9tu2U7vtFQjFqk7HYcdMP5cWt+cjRFWBAvbSWiPGhyzgyT5PuNtwPZB+B/7K6H0vNdwfJLyOW0nRSavNrVQFvUZWQ3VQNTsBgQBv2TYXMFlTlFpB8EeM02HwGIuo6t0d7KuTtKGv0i/cQd8hEQgB0O0psRY3BB1uCJIYPFLuvY9B0nMr4OxbRIJhFT0RoeAJt8NZI4ZFA2iNe/841p1govcfGN86ztKGHesRtbNgEB3sSAoJ4an4Xl030jTytR70Qf0i50KdBcMp59XnMBvWmDf/6YW7A0zdQOmJ43HVK9V6tQ3ZzcngOgAcABoIFnRxY+EaON5E+crJDB2uewx1lR5rd8Y4H0u4x3lh5jd/hLl7Bx0jZ8sP7r/b/1mB1bbTe83iZvWWH91/t/6TAqnpN7zeMB422M+RqI+yj1qzUn9QnYJleT+tXvmpv6lOwQflfkTF+Ipl58DF8pbzp9w+MbYDeewxbKT50/y/zgIaDLZbsqbzYiVb02hsp9AROp6TSpbCR0VTE1V220+8fGCM8Y3nH95vEwQ9AaMoCXnLlYUX6YYm4nREaHmFxDXsTG2Le7EdBMLhn5w7YbyVR6uyis7MbKqqWdj0ADUym+yRikJJvEnsgymvi2anRplhxc6U095tw7N/VLfyQ+jRyy1ccAqDUYcNdmPDyjDQD+EE3423HUsNh6dNAlNFRF0CKoVB2AS42jTheyn8lfo+w2FUPUVa1bftst6adSIfxHXs3S4rFNZy0ughXM15NBmaphyqOxLPSbSk7Hewt6DE6kgWJvcXJMq1ensuUdGRxvRhY26QRoy9YJE020b4/AUq6bFVA44bwynpRhqp6wYrm8dT7XTGcPkSh0+0UGjhxe9riVv6RsYFpUaQ+85dgOhBYfNvlL3iuT1aiSaRNWnvtYeWQdg0cdlju0O+UHP8vXF1WUHZqIvMJJ2GUHnKw4a63GuvG2iuLFKGVchnNljPG+JSqlApsnerjaVhuIvYjqYHQj8iIqrCOcEPJ1Hw2JGyrm2026jV+5WHSvBrb1J3kCSWYcjMxoDafDsyj7yEVFt08wk27ROkjkzjZHYN+d3GO8rHm37/CMcIrCoQwKmxuCCCNOIMfZYfNv3+EHLZSVI2HLj+6f2x+GYK51b3j4zd8rb90/t/6TB23n3j4wHj7Y15GojzJvWr3zUazeZTsEyzKT51e+ahWbzKdgg/K/JFYtC2AOv9JjjKR50+5+cY5e2vcY+ydvPH3PzgYewq2WzKhzBE6vptFMA/NiFRue0p/kFjorNfJ6pZjs7yTv6TOyxfXE6YI5xQpyZ5yvBeJ3gBjYCh/lODqV69OnTF3dgqjcOkkngAASeoGb3yV5K0MEnNAaq/p1SOcf4V9lOr4zNPohwG3i6lXhSp2HvVDYH/FX+M2uiJEjaQZhYiBgIGGsMBLLEyIBANDbgfGBhaWQBEEPAiXlEC3lG+kHLFATE0xsVA9iQN5sSGPcpB6QZfNjriGOyylWTYqAlb30YjWxG8dRMHNclSNxlxdmY5lyfp5lTw7pZHZ1QsBchb+dRunZAdh7vXNSSmFUKNwAA7BoIhl+TYbDi1KmE1Lb2J2iNknnE620j5hLiml2STTZV+VHJKljLOSUrIpVH3qRvCuOIvx3j5TLP/J4+jTrF6DBU2izgqVKjey63YcdBN5C9MTq01dWRhzWVlI6mFj8jLcUzDRT8rP7of5f+kwlt57T4zfhg2o0nptrs0yA3tAKQDMBbee0+MVwJpyTC530hzlnrVmnu3mE7BMwy8+cWaI9ceQQdUH5K7RnFoeYA87uMd5MfOt7n6yLy6sNrjuPCSWS+tb3P1gIhlsteTvemsJWPOaGyYgUxCViNppn/swy0RnlKfR85yKeUw/sN8DBHBKzz9Owt52NgzXvoap2w2IfiaoXuVFP+00mm9jKD9E1Qfs7QaitUB6zZD4ES9I8lmkOyeInAYWmYpeassFrjrnW1E5ac2rHXjIQFPdFafGJppDrvkfZAzCBTDQh0mTQe8E5BIUAiEQaw5iYNgZaIMM5obVJuBswv1EWnm3M8J5Kq6bW1ssRtDceM9P1UV1KtqGBBHSCLGYh9JGSU8K1gurnbR911vqD1j9INxqVr2Zm20kU3AesWaOPUp2TNcA3nFmjK3mUi3kbRvHoc4Hf3GPsmPnm9z9ZH4Bueewx5kp883ufrF0GRbslYGmInW9JorlNPZpr2RCsec0G9hVohnr6nUbzBEnRLnTiYI1YrRiJWdAgVYp5PojoGzXfoiFsFUvu8u5H+FMflNAWVL6OMP5PLaJ9suxPvM1vkAJbgJpFoXXdDAxJWigElGg6GddLi3wPXOLDXksgGE6DOMdIUGQsXEB1nFM7KIcUzphZ2Qs7eIMfGKNGZrgC7aXMl0Sm+kPABIDlnkFLGYVldGZqYd6YSwfb2CAo6ibadQku+IVRcns64bD1gwvJyTdEcJVddHlzBi1QX0INiOIPEGaCjeaTsjr6T+SYp1lxlFbI7WrKBojnc9uAbcevtjIHzKdkV8hdokR3l784+6ZI8n9cQR/Asi8oRnfZUXJBEuGCymnRG0fTIAOvARfSCx2TVFxqo4aSOqnVp3LHvtdsI55x7YF9sMtEK+Ea57TOyc8iII1xYnyPPKRQRNYqi30joFnoDkzhTTwGGRhYrSTaH8RG0R8TJem53RDAVlemjqea6IynqZQbR0iTdKjaOhjHKHSI7oATKs0OBBeJAmHVzLIKRO9jDqYjXNmHZMs0hdeEUvEUMPeUQMROQbUKzSygrMemU45m1aoyDejuljcWYOQbjjpY/wBUtztKNhlD43E7NgQ5UHatdmALanjpF8910MeO0pNv4J5VvZQSdkWZr8BwvuvJDB3JAXQDhrb/AKZDNmNOmvPcEjcijaY9wj3D53TWws56WCHZHT1n4QWFq7bpBst8aSsnmQMpVgCCLEEAgg8CDvEoXKHkowqqKShabG+m5DxXs4j/AJLphszou2yroW4ptAOO1DqPhHVVA6kHjGppTj0JJNPsqOW5dTw6gKLtxaNsVmKmr5MG7Wu3UOEQzvNhTdqS6uLhjwW0reSMWxDkm5KAk8eM59N22M3FdIuGU1Oae2JV6vOa0b5Gxt8fGMazP5Sprp/yYrstPoZVM9rAkdBMEqtfFttt2nxnY7SEuyprJLKsA9SoiLa7HjukUh1lp5LITiKcNN0rBvZqvI3DVUomjUKnYN0IOoQ717j4yxo5GjfGVrDVijhri469/SJZlZXQMNQRcTOLLyX7QWqFAAYa0Z7RU2ioeHUiqFwYZNY3245oiw1kbIkdJPCRtbEk1GU6bOg7wLyRZhE62BD6k2NuAFt99enogskZNfa+wsJRT+5dBKVYGLl5GOjobHuPCH+sm3TBLLx6lsJLC33HRIbUTepIuriqh9FlA90k+MZt5TW7E36zLl5EFopYJPZI47MqaAlmA79T2DjKLlruWqOVYCpUqPqOdZmOzfo0IliSkt9RrFAijdFsufkqoYx4uI0w9IDctjx01PWemPUXq/X4wUmEXBEXbDpEdmWXJUSzKCRuJAvGGT55VwVVadZi2GPNu2ppHgQ2/Y6Rw7pYhUEjszwiVEKkbwRLhNxlaJKClGmQnL3D+TxnlfuVUVg33doDZIB7Ap/qkbkFvLtbXmD85NcqMIf2TQubmiyLfpBQqfnaV7k8/nW9wfnGsiXbOelUqLZlBFm7TGuJI227ZGfW6i09pfaN/jGgzJi2oi9Wwt0S31an7I+EEY/Xqn/5n4H9IJdMloylRrLFyec+Xp9siGp316JPck6G1iFPBRedCbXFnPXbRoYvfUyx8nsQLMl725w794lbYrv/AOx3lWKC1VPTp0DXd87RPFLjNB2i1V1iW/t6IZHDdvRFUQTpJIwHoU+Ji5nFtacZLnfJVl6O00ub8BHJMINN06CTKbIjj0wwKnjoZRMVnRo1HSqpXZYrt2uhAOhLD0b9cv2gEomOqLUd3tozEjThuF+6JeW0kn7HPFt2vQelnNFhcMCOFiCPlDriQfvDslWx3JxGBemWpPvupsDrxXcfhI36tjaBOi1ADYEkqSOnTT5RTa6Y1raL/tqTcjvBigt0/rKhhc2r7mpEdJ2xaSdDM9ogWa/uk/MQbbNKJOeT1vD3jJaj2JAOgueqV/H8rKe5DY+02g7hvMuMZS/FGZZIw2yyVn101PQNSewTtChVJuykLvLNZQB0m+6Vrk/m9RleozsiAm77lYDdaVvlNyjrYlyu2/k76Jeym3FgN/fGYeL/AOmKz82vxRYOWee06iph6Lh0Ql3ZfRZ9QoB4gAnUaEt1SGyF/Ot7g/OQVFjJfITeuR0oo+ZhJLpgIyuVlyynBh6Lqw6SJJcleTVMg1XG1qQqncLcY/y+kFGg4ayRyDEKyOg+6x0mMSuRqb6Hv1an7C/4idndYIewVHmRE5pJl15FYApTaowPP3DqEqeDKMUDeiWAbsvNRoqqqgW2yAAAJWedRoFijbsDMOCGFCOTcKB4x47ADQXiC03Y9HRrE7djHRZEJIVhpcA/EXjvD4kX2W0vx4RvgktzPZFh3Q+JwqtoQCOIO49vVOomwQ9qX3D48IslgI1XFJzb6FjYCxJvYnW24aHU6RwGluXwaoVhxpEleM81zRMOm02rH0U4sfyHXMuSStkjFydINm+KC0mF7FgVUcddCfgZVAVEZV8xeq2251PwA4AdUUpsOqczPl+pK/R08OLhGvY5LX0HGGejecpvbdHuEwlRzoth7R0H/YOMXJ0kblJRVsiVy0Wu+4GTmW5SLAkWXh7R/SSOGyZFYMxLsN1/RHYskGSw741Dx67kKz8i+olTbCOlbErqQwVkufusHsB1A3HdM6w/J+jSO3in22uSKam/cZrWcONogb/J69hLW8DMhqKSTfUwkPtk0hXM20mw2a5k9QbIGwg9FBu75BVpKVUkXXjCFWK4bcJKZCbYg+6vjInDnmiSWR+vPujxgJexmPo17DN5sn+H8pDZJimRy44k3HSLyXpjzDe5+UgMnF1Exi9kyei7ftKn0wSCtBC8jFmC4Z7GabyaxW3h00uVut79Ey1DaWnkjnKU1qLUa24qupZjxCgak9Ql5ocomIPsvr4lRvgw+ZU1qJtkKu0LkkAdW/rtKtiM3rVNKNPYHtOLt3IDp/UR2RTIcpFTFUzVY1GDbXO5wGyC270V3cAICGOpKwz0ahT9K/YI6ZZHU3IJB7jJPhHmDQ1ZddI6VwRfcYUrC2mWbQKlfZHNFz8pB4nLFq1C9TaJPHaI06AOAk5aDYBmZR5bNxk46IL/AM5S4M/+Q/SOsPkVPeS1ui4/SSYS0Vw1rkd8x9GHwb+tL5EMNl9NNyDtOp+cfIlooFnQsJGCWgcpN7OWgYaQ1oniKyIjO7BVUFmYmwVRqSTLaKKtj621icQPYRF/+Wb/AGmc1VteWvJ8wGIfE1h6NQ7S337BvsX69m0q9Zd8Vj+TLy6QwrbpFYlZMVF0kZiVhkwDRzDCw7o/yT7QfdXxjPBptsq9OkmMqwTLiWYLzAAt++Ck9h4ejUqQvRb3fylfyXdJ/DMPJjrEhMuSzMOs+MHjZrIiYtBBBCWCo87LqR3eMvORYCkGA2BqNd9z2nfBBGMmjMNkli9HCjQW3DdH3JE/vY9x/wAoIIrj/sQzL8WXtxrH43QQR9i0ThnDBBMM0gph0ggkNCkInpiCCQg9gggkIEMzT6bK7rhsOoYhXqvtC+jbKgrfpsSYIJhbI9DLkP6hvcTwMjau898EEXj+UjWX8UM68i8VBBCoCHyz0xLtSFqAPSw8YIIKfsLDZYlc7A14RpgfSPbBBAw2bnomIIIIcGf/2Q==",
     "Chef_Name": "Aparna Marta",
     "Years_of_experience": "3",
-    "recipes":[
-      {
-    "strMeal": "Matar Paneer",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
-    "price": 360,
-    "id": "52865",
-    
-    "category_id": "1",
-    "strIngredient1": "Sunflower Oil",
-    "strIngredient2": "Paneer",
-    "strIngredient3": "Ginger",
-    "strIngredient4": "Cumin",
-    "strIngredient5": "Turmeric",
-    "strIngredient6": "Coriander",
-    "strInstructions": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.\r\nPut the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice."
-  },
-  {
-    "strMeal": "Nutty Chicken Curry",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
-    "id": "52851",
-    "price": 460,
-    "category_id": "1",
-    "strIngredient1": "Red Chilli",
-    "strIngredient2": "Ginger",
-    "strIngredient3": "Garlic",
-    "strIngredient4": "Coriander",
-    "strIngredient5": "Sunflower Oil",
-    "strIngredient6": "Chicken Breasts",
-    "strInstructions": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed.\r\nHeat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato."
-  },
-  {
-    "strMeal": "Recheado Masala Fish",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
-    "id": "52809",
-    "price": 380,
-    "category_id": "2",
-    "strIngredient1": "Mackerel",
-    "strIngredient2": "Red Chili",
-    "strIngredient3": "Ginger",
-    "strIngredient4": "Garlic",
-    "strIngredient5": "Pepper",
-    "strIngredient6": "Cumin",
-    "strInstructions": "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar.\r\nAdd sugar and salt.\r\nAlso add turmeric powder.\r\nCombine all nicely and marinate for 35-40 mins.\r\nGrind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish.\r\nRinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity.\r\nNow stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins.\r\nPlace oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels.\r\nFry until golden brown from both sides\r\nServe the recheado mackerels hot with salad, lime wedges, rice and curry."
-  }],
-    
-   "Likes": "4",
+    "Numbers_of_recipes": "4",
+    "Likes": "4",
     "description": "A renowned name in the Indian culinary world, she is the winner of MasterChef India Season 1. Since then she has been spreading her love for cooking by teaching people recipes through several shows like ‘Chef Pankaj Ka Zayka’ and ‘3 Course with Pankaj’, to name a few."
   },
   {
@@ -113,49 +23,6 @@
     "Chef_Name": "Louise Selma",
     "Years_of_experience": "5",
     "Numbers_of_recipes": "3",
-    "recipes":[
-      {
-    "strMeal": "Tandoori chicken",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
-    "id": "52806",
-    "price": 460,
-    "category_id": "2",
-    "strIngredient1": "lemons",
-    "strIngredient2": "paprika",
-    "strIngredient3": "red onions",
-    "strIngredient4": "chicken thighs",
-    "strIngredient5": "vegetable oil",
-    "strIngredient6": "Greek yogurt",
-    "strInstructions": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.\r\nMix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance.\r\nHeat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through."
-  },
-  {
-    "strMeal": "Baingan Bharta",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
-    "id": "52807",
-    "category_id": "2",
-    "price": 160,
-    "strIngredient1": "Aubergine",
-    "strIngredient2": "Onion",
-    "strIngredient3": "Tomatoes",
-    "strIngredient4": "Garlic",
-    "strIngredient5": "Green Chili",
-    "strIngredient6": "Red Chili Powder",
-    "strInstructions": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and\r\nkeep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get\r\nthe smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly\r\ncooked. You could also embed some garlic cloves in the baingan and then roast it.\r\n2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid\r\neasily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools\r\ndown.\r\n3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step.\r\nUse natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red.\r\n4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted\r\naubergine is kept."
-  },
-  {
-    "strMeal": "Lamb Rogan josh",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg",
-    "id": "52808",
-    "price": 760,
-    "category_id": "4",
-    "strIngredient1": "Aubergine",
-    "strIngredient2": "Onion",
-    "strIngredient3": "Tomatoes",
-    "strIngredient4": "Garlic",
-    "strIngredient5": "Green Chili",
-    "strIngredient6": "Red Chili Powder",
-    "strInstructions": "\r\nPut the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more.\r\nTip the curry paste, all the spices and the bay leaves into the pan, with the tomato purée. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt.\r\nCover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice."
-  }],
     "Likes": "4",
     "description": "Louise Selma’s Insta-feed is filled with yummylicious recipes that will make you want to don your chef hat as well. From Parsi dishes to continental delights, you will find it all over here. With thorough instructions at one’s disposal, it is easier to follow her lead and make all the ah-mazing recipes!"
   },
@@ -165,103 +32,17 @@
     "Chef_Name": "Manfried Hartmann",
     "Years_of_experience": "3",
     "Numbers_of_recipes": "3",
-    "recipes":[ {
-    "strMeal": "Chicken Handi",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
-    "id": "52795",
-    "price": 460,
-    "category_id": "4",
-    "strIngredient1": "Chicken",
-    "strIngredient2": "Onion",
-    "strIngredient3": "Tomatoes",
-    "strIngredient4": "Garlic",
-    "strIngredient5": "Ginger paste",
-    "strIngredient6": "Vegetable oil",
-    "strInstructions": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside.\r\nTo the same pot, add the chopped garlic and sauté for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes.\r\nThen return the fried onion to the pot and stir. Add ginger paste and sauté well.\r\nNow add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir.\r\nNext goes in the spices – turmeric powder and red chilli powder. Sauté the spices well for couple of minutes.\r\nAdd the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.\r\nWhen the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well.\r\nFinally add the cream and give a final mix to combine everything well.\r\nSprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!"
-  },
-  {
-    "strMeal": "Dal fry",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg",
-    "id": "52785",
-    "price": 260,
-    "category_id": "1",
-    "strIngredient1": "Toor dal",
-    "strIngredient2": "Water",
-    "strIngredient3": "Salt",
-    "strIngredient4": "Turmeric",
-    "strIngredient5": "Ghee",
-    "strIngredient6": "Chopped tomatoes",
-    "strInstructions": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water.\r\nCook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup.\r\nIn a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds.\r\nAdd tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy.\r\nAdd cilantro and garam masala cook for about one minute.\r\nPour the seasoning over dal mix it well and cook for another minute.\r\nServe with Naan."
-  },
-  {
-    "strMeal": "Kidney Bean Curry",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
-    "id": "52868",
-    "price": 390,
-    "category_id": "2",
-    "strIngredient1": "Vegetable Oil",
-    "strIngredient2": "Onion",
-    "strIngredient3": "Garlic",
-    "strIngredient4": "Ginger",
-    "strIngredient5": "Coriander",
-    "strIngredient6": "Cumin",
-    "strInstructions": "Heat the oil in a large frying pan over a low-medium heat. Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to colour. Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant.\r\n\r\nAdd the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil.\r\n\r\nTurn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves."
-  }],
     "Likes": "6",
-    "description":"He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
+    "description": "He is a successful restauranteur with several popular names under his belt and is, of course, a famous Michelin star chef as well. You may recognise him from the show The Final Table, which saw him as an expert on one of the episodes. His recipes are generally easy to follow, and they use simple ingredients. We’re totally bowled over by his recipe for Makhani Gravy!"
   },
   {
     "Chef_Picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UADcK5A_cSK9hz3pRNVPerOQ90oPTTOycQ&usqp=CAU",
     "Chef_Name": "Leandro Hänsel",
     "id": 5,
     "Years_of_experience": "2",
+    "Numbers_of_recipes": "4",
     "Likes": "4",
-    "description":"Leandro Hänsel won the Best Chef Of The Year in 2015 and is known for rolling out some great recipes that are not just easy to follow but the end results look spectacular. He has also been featured on NDTV for his show Vicky Goes Veg, wherein he taught masses about some delicious recipes that one could cook up at home!",
-    "recipes":[
-      {
-        "strMeal": "Matar Paneer",
-        "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
-        "price": 360,
-        "id": "52865",
-
-        "category_id": "1",
-        "strIngredient1": "Sunflower Oil",
-        "strIngredient2": "Paneer",
-        "strIngredient3": "Ginger",
-        "strIngredient4": "Cumin",
-        "strIngredient5": "Turmeric",
-        "strIngredient6": "Coriander",
-        "strInstructions": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.\r\nPut the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice."
-      },
-      {
-        "strMeal": "Nutty Chicken Curry",
-        "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
-        "id": "52851",
-        "price": 460,
-        "category_id": "1",
-        "strIngredient1": "Red Chilli",
-        "strIngredient2": "Ginger",
-        "strIngredient3": "Garlic",
-        "strIngredient4": "Coriander",
-        "strIngredient5": "Sunflower Oil",
-        "strIngredient6": "Chicken Breasts",
-        "strInstructions": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed.\r\nHeat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato."
-      },
-      {
-        "strMeal": "Recheado Masala Fish",
-        "strMealThumb": "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg",
-        "id": "52809",
-        "price": 380,
-        "category_id": "2",
-        "strIngredient1": "Mackerel",
-        "strIngredient2": "Red Chili",
-        "strIngredient3": "Ginger",
-        "strIngredient4": "Garlic",
-        "strIngredient5": "Pepper",
-        "strIngredient6": "Cumin",
-        "strInstructions": "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar.\r\nAdd sugar and salt.\r\nAlso add turmeric powder.\r\nCombine all nicely and marinate for 35-40 mins.\r\nGrind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish.\r\nRinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity.\r\nNow stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins.\r\nPlace oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels.\r\nFry until golden brown from both sides\r\nServe the recheado mackerels hot with salad, lime wedges, rice and curry."
-      }
-    ]
+    "description": "Leandro Hänsel won the Best Chef Of The Year in 2015 and is known for rolling out some great recipes that are not just easy to follow but the end results look spectacular. He has also been featured on NDTV for his show Vicky Goes Veg, wherein he taught masses about some delicious recipes that one could cook up at home!"
   },
   {
     "Chef_Picture": "data:image/jpeg;base64,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",
@@ -269,53 +50,7 @@
     "Chef_Name": "Oscar Kuno",
     "Years_of_experience": "1",
     "Numbers_of_recipes": "2",
-    "recipes":[
-       {
-    "strMeal": "Lamb Biryani",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
-    "id": "52805",
-    "price": 660,
-    "category_id": "3",
-    "strIngredient1": "Vegetable Oil",
-    "strIngredient2": "Onion",
-    "strIngredient3": "Garlic",
-    "strIngredient4": "Ginger",
-    "strIngredient5": "Coriander",
-    "strIngredient6": "Cumin",
-    "strInstructions": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside. \r\n\r\nDeep fry the sliced onions when it is hot. Don’t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside.\r\n\r\nWash the rice and soak in water for twenty minutes.\r\nMeanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.\r\nThen add the tomatoes and sauté them well till they are cooked and not mushy.\r\n\r\nThen to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.\r\nAdd the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.\r\n\r\nNow after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well. Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles."
-  },
-
-  {
-    "strMeal": "Matar Paneer",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
-    "price": 360,
-    "id": "52865",
-    
-    "category_id": "1",
-    "strIngredient1": "Sunflower Oil",
-    "strIngredient2": "Paneer",
-    "strIngredient3": "Ginger",
-    "strIngredient4": "Cumin",
-    "strIngredient5": "Turmeric",
-    "strIngredient6": "Coriander",
-    "strInstructions": "Heat the oil in a frying pan over high heat until it’s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away. Remove the paneer from the pan and drain on kitchen paper.\r\nPut the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice."
-  },
-  {
-    "strMeal": "Nutty Chicken Curry",
-    "strMealThumb": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
-    "id": "52851",
-    "price": 460,
-    "category_id": "1",
-    "strIngredient1": "Red Chilli",
-    "strIngredient2": "Ginger",
-    "strIngredient3": "Garlic",
-    "strIngredient4": "Coriander",
-    "strIngredient5": "Sunflower Oil",
-    "strIngredient6": "Chicken Breasts",
-    "strInstructions": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed.\r\nHeat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato."
-  }],
     "Likes": "3",
-    "description":" Oscar Kuno has certainly made a name for himself, not just in India, but even internationally. He is a Michelin star chef and his restaurant Junoon has won Michelin stars for 6 consecutive years! In case you still don’t recognise him, he was the host of the MasterChef India Season 2. A great chef and an equally nice person, his passion for culinary art is enough to make you want to start cooking!"
+    "description": " Oscar Kuno has certainly made a name for himself, not just in India, but even internationally. He is a Michelin star chef and his restaurant Junoon has won Michelin stars for 6 consecutive years! In case you still don’t recognise him, he was the host of the MasterChef India Season 2. A great chef and an equally nice person, his passion for culinary art is enough to make you want to start cooking!"
   }
-  
 ]

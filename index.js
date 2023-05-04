@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const meals = require('./data/meals.json');
 const chefs = require('./data/chefs.json');
+const chef = require('./data/chef.json');
 app.get('/', (req,res)=>{
 res.send('Assignment is cooking')
 });
@@ -18,6 +19,7 @@ app.get('/chefs',(req,res) =>{
     res.send(chefs);
 })
 
+
 app.get('/meals/:id', (req,res) =>{
     const id = req.params.id;
     // console.log(id);
@@ -25,13 +27,13 @@ app.get('/meals/:id', (req,res) =>{
     res.send(selectedmeals)
 })
 
+
+
 app.get('/chefs/:id',(req,res) =>{
     const id = req.params.id;
    
-        const chefsNews = meals.filter(m => m.category_id === id)
+        const chefsNews = chefs.find(m => m.id == id)
         res.send(chefsNews);
-
-  
 })
 app.listen(port,() =>{
     console.log(`Assignment api is running on port:${port}`)
